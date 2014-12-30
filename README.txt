@@ -1,0 +1,1 @@
+For sending the mail, this code will be used
